@@ -30,6 +30,7 @@ Public records collection of Emergency Operations Plans (EOPs) from all **120 Ke
 |--------|----------|-----|
 | **Campbell** | EOP – Search & Rescue Plan | https://campbellcountyky.gov/egov/documents/1735852403_1093.pdf |
 | **Campbell** | ESF-13 Public Safety & Security Annex | https://campbellcountyky.gov/egov/documents/1759437436_67386.pdf |
+| **Fayette** (Lexington) | EOP Basic Plan (2024) | https://www.bereadylexington.com/wp-content/uploads/2024/09/Fayette-County-Basic-EOP-2024.pdf |
 | **Fayette** (Lexington) | EOP Basic Plan (2021) | https://www.bereadylexington.com/wp-content/uploads/2021/06/Basic-Plan.pdf |
 | **Fayette** (Lexington) | EOP Index (all ESF annexes) | https://www.bereadylexington.com/emergency-operations-plan/ |
 | **Hardin** | Executive Order 2025-001 (EOP adoption) | https://www.hardincountyky.gov/DocumentCenter/View/2862/Executive-Order-2025-001-Emergency-Mgmt-Operations-Plan |
@@ -113,6 +114,27 @@ Each record contains:
 - `crawled_pdf` — PDF found by crawling a county EOP index page
 - `page_no_pdfs` — index page crawled but no PDFs extracted
 - `reference` — no public PDF found; URL is county's official site for Open Records request
+
+---
+
+## KYEM Area Office Structure
+
+KYEM organizes all 120 counties through 10 regional area offices. Each area office manager reviews and concurs on local EOPs. Contacting your area office is another path to obtaining county EOPs.
+
+| Area | Office Location | Counties |
+|------|----------------|---------|
+| 1 | Benton | Ballard, Caldwell, Calloway, Carlisle, Fulton, Graves, Hickman, Livingston, Lyon, Marshall, McCracken, Trigg |
+| 2 | Glasgow | Allen, Barren, Butler, Edmonson, Grayson, Green, Hart, Logan, Metcalfe, Monroe, Simpson, Warren |
+| 3 | Louisville | Breckinridge, Bullitt, Hardin, Henry, Jefferson, Larue, Meade, Nelson, Oldham, Spencer, Shelby, Trimble |
+| 4 | Lexington | Anderson, Bourbon, Boyle, Clark, Fayette, Franklin, Jessamine, Marion, Mercer, Nicholas, Washington, Woodford |
+| 5 | Northern KY | Boone, Bracken, Campbell, Carroll, Gallatin, Grant, Harrison, Kenton, Owen, Pendleton, Robertson, Scott |
+| 6 | Morehead | Bath, Boyd, Carter, Elliott, Fleming, Greenup, Lewis, Mason, Menifee, Montgomery, Morgan, Rowan |
+| 7 | Prestonsburg | Breathitt, Floyd, Johnson, Knott, Lawrence, Leslie, Letcher, Magoffin, Martin, Perry, Pike, Wolfe |
+| 8 | Harlan | Bell, Clay, Estill, Garrard, Harlan, Jackson, Knox, Laurel, Lee, Madison, Owsley, Powell, Whitley |
+| 9 | Lake Cumberland | Adair, Casey, Clinton, Cumberland, Lincoln, McCreary, Pulaski, Rockcastle, Russell, Taylor, Wayne |
+| 10 | Owensboro | Christian, Crittenden, Daviess, Hancock, Henderson, Hopkins, McLean, Muhlenberg, Ohio, Todd, Union, Webster |
+
+KYEM Area Offices: https://www.kyem.ky.gov/inside-kyem/area-offices
 
 ---
 

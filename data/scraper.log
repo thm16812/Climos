@@ -1,252 +1,252 @@
-2026-03-05 18:04:52,152 [INFO] Kentucky County EOP Collector
-2026-03-05 18:04:52,152 [INFO] Counties with confirmed sources: 6
-2026-03-05 18:04:52,153 [INFO] Total counties tracked: 120
-2026-03-05 18:04:52,153 [INFO] --- Downloading State-Level KY EOP Documents ---
-2026-03-05 18:04:55,180 [INFO] === Adair County ===
-2026-03-05 18:04:55,181 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:55,181 [INFO] === Allen County ===
-2026-03-05 18:04:55,182 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:55,182 [INFO] === Anderson County ===
-2026-03-05 18:04:55,182 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:55,182 [INFO] === Ballard County ===
-2026-03-05 18:04:55,183 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:55,183 [INFO] === Barren County ===
-2026-03-05 18:04:55,183 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:55,183 [INFO] === Bath County ===
-2026-03-05 18:04:55,184 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:55,184 [INFO] === Bell County ===
-2026-03-05 18:04:55,184 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:55,185 [INFO] === Boone County ===
-2026-03-05 18:04:55,185 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:55,185 [INFO] === Bourbon County ===
-2026-03-05 18:04:55,185 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:55,185 [INFO] === Boyd County ===
-2026-03-05 18:04:55,185 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:55,185 [INFO] === Boyle County ===
-2026-03-05 18:04:55,186 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:55,186 [INFO] === Bracken County ===
-2026-03-05 18:04:55,186 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:55,186 [INFO] === Breathitt County ===
-2026-03-05 18:04:55,186 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:55,186 [INFO] === Breckinridge County ===
-2026-03-05 18:04:55,187 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:55,187 [INFO] === Bullitt County ===
-2026-03-05 18:04:55,187 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:55,187 [INFO] === Butler County ===
-2026-03-05 18:04:55,188 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:55,188 [INFO] === Caldwell County ===
-2026-03-05 18:04:55,188 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:55,188 [INFO] === Calloway County ===
-2026-03-05 18:04:55,189 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:55,189 [INFO] === Campbell County ===
-2026-03-05 18:04:57,204 [INFO]   Crawling index page: https://campbellcountyky.gov/division/blocks.php?structureid=73
-2026-03-05 18:04:57,212 [INFO]   Found 0 sub-links on index page
-2026-03-05 18:04:58,214 [INFO] === Carlisle County ===
-2026-03-05 18:04:58,215 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:58,215 [INFO] === Carroll County ===
-2026-03-05 18:04:58,216 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:58,216 [INFO] === Carter County ===
-2026-03-05 18:04:58,216 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:58,216 [INFO] === Casey County ===
-2026-03-05 18:04:58,216 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:58,217 [INFO] === Christian County ===
-2026-03-05 18:04:58,217 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:58,217 [INFO] === Clark County ===
-2026-03-05 18:04:58,217 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:58,218 [INFO] === Clay County ===
-2026-03-05 18:04:58,218 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:58,218 [INFO] === Clinton County ===
-2026-03-05 18:04:58,219 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:58,219 [INFO] === Crittenden County ===
-2026-03-05 18:04:58,219 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:58,219 [INFO] === Cumberland County ===
-2026-03-05 18:04:58,219 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:58,219 [INFO] === Daviess County ===
-2026-03-05 18:04:58,220 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:58,220 [INFO] === Edmonson County ===
-2026-03-05 18:04:58,220 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:58,220 [INFO] === Elliott County ===
-2026-03-05 18:04:58,221 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:58,221 [INFO] === Estill County ===
-2026-03-05 18:04:58,221 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:04:58,222 [INFO] === Fayette County ===
-2026-03-05 18:04:59,230 [INFO]   Crawling index page: https://www.bereadylexington.com/emergency-operations-plan/
-2026-03-05 18:04:59,238 [INFO]   Found 0 sub-links on index page
-2026-03-05 18:05:00,239 [INFO] === Fleming County ===
-2026-03-05 18:05:00,240 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:00,241 [INFO] === Floyd County ===
-2026-03-05 18:05:00,241 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:00,241 [INFO] === Franklin County ===
-2026-03-05 18:05:00,242 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:00,242 [INFO] === Fulton County ===
-2026-03-05 18:05:00,242 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:00,242 [INFO] === Gallatin County ===
-2026-03-05 18:05:00,243 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:00,243 [INFO] === Garrard County ===
-2026-03-05 18:05:00,243 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:00,243 [INFO] === Grant County ===
-2026-03-05 18:05:00,244 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:00,244 [INFO] === Graves County ===
-2026-03-05 18:05:00,244 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:00,245 [INFO] === Grayson County ===
-2026-03-05 18:05:00,245 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:00,245 [INFO] === Green County ===
-2026-03-05 18:05:00,246 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:00,246 [INFO] === Greenup County ===
-2026-03-05 18:05:00,246 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:00,247 [INFO] === Hancock County ===
-2026-03-05 18:05:00,247 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:00,247 [INFO] === Hardin County ===
-2026-03-05 18:05:01,256 [INFO] === Harlan County ===
-2026-03-05 18:05:01,257 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:01,257 [INFO] === Harrison County ===
-2026-03-05 18:05:01,258 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:01,258 [INFO] === Hart County ===
-2026-03-05 18:05:01,259 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:01,259 [INFO] === Henderson County ===
-2026-03-05 18:05:01,259 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:01,259 [INFO] === Henry County ===
-2026-03-05 18:05:01,259 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:01,260 [INFO] === Hickman County ===
-2026-03-05 18:05:01,260 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:01,260 [INFO] === Hopkins County ===
-2026-03-05 18:05:01,260 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:01,261 [INFO] === Jackson County ===
-2026-03-05 18:05:01,261 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:01,261 [INFO] === Jefferson County ===
-2026-03-05 18:05:02,269 [INFO] === Jessamine County ===
-2026-03-05 18:05:02,270 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:02,270 [INFO] === Johnson County ===
-2026-03-05 18:05:02,270 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:02,270 [INFO] === Kenton County ===
-2026-03-05 18:05:12,343 [INFO]   Crawling index page: https://www.kentoncounty.org/210/Kenton-County-Emergency-Operation-Plans
-2026-03-05 18:05:12,350 [INFO]   Found 0 sub-links on index page
-2026-03-05 18:05:13,351 [INFO] === Knott County ===
-2026-03-05 18:05:13,352 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,353 [INFO] === Knox County ===
-2026-03-05 18:05:13,353 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,353 [INFO] === Larue County ===
-2026-03-05 18:05:13,353 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,354 [INFO] === Laurel County ===
-2026-03-05 18:05:13,354 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,354 [INFO] === Lawrence County ===
-2026-03-05 18:05:13,354 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,354 [INFO] === Lee County ===
-2026-03-05 18:05:13,355 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,355 [INFO] === Leslie County ===
-2026-03-05 18:05:13,355 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,355 [INFO] === Letcher County ===
-2026-03-05 18:05:13,355 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,355 [INFO] === Lewis County ===
-2026-03-05 18:05:13,356 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,356 [INFO] === Lincoln County ===
-2026-03-05 18:05:13,356 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,356 [INFO] === Livingston County ===
-2026-03-05 18:05:13,356 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,356 [INFO] === Logan County ===
-2026-03-05 18:05:13,357 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,357 [INFO] === Lyon County ===
-2026-03-05 18:05:13,357 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,357 [INFO] === McCracken County ===
-2026-03-05 18:05:13,358 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,358 [INFO] === McCreary County ===
-2026-03-05 18:05:13,358 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,358 [INFO] === McLean County ===
-2026-03-05 18:05:13,358 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,358 [INFO] === Madison County ===
-2026-03-05 18:05:13,359 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,359 [INFO] === Magoffin County ===
-2026-03-05 18:05:13,359 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,359 [INFO] === Marion County ===
-2026-03-05 18:05:13,359 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,359 [INFO] === Marshall County ===
-2026-03-05 18:05:13,359 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,359 [INFO] === Martin County ===
-2026-03-05 18:05:13,360 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,360 [INFO] === Mason County ===
-2026-03-05 18:05:13,360 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,360 [INFO] === Meade County ===
-2026-03-05 18:05:13,360 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,360 [INFO] === Menifee County ===
-2026-03-05 18:05:13,360 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,360 [INFO] === Mercer County ===
-2026-03-05 18:05:13,361 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,361 [INFO] === Metcalfe County ===
-2026-03-05 18:05:13,361 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,361 [INFO] === Monroe County ===
-2026-03-05 18:05:13,362 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,362 [INFO] === Montgomery County ===
-2026-03-05 18:05:13,362 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,362 [INFO] === Morgan County ===
-2026-03-05 18:05:13,362 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,362 [INFO] === Muhlenberg County ===
-2026-03-05 18:05:13,362 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,362 [INFO] === Nelson County ===
-2026-03-05 18:05:13,363 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,363 [INFO] === Nicholas County ===
-2026-03-05 18:05:13,363 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,363 [INFO] === Ohio County ===
-2026-03-05 18:05:13,363 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,363 [INFO] === Oldham County ===
-2026-03-05 18:05:13,364 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,364 [INFO] === Owen County ===
-2026-03-05 18:05:13,364 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,364 [INFO] === Owsley County ===
-2026-03-05 18:05:13,364 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,364 [INFO] === Pendleton County ===
-2026-03-05 18:05:13,364 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,364 [INFO] === Perry County ===
-2026-03-05 18:05:13,365 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,365 [INFO] === Pike County ===
-2026-03-05 18:05:13,366 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,366 [INFO] === Powell County ===
-2026-03-05 18:05:13,366 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,367 [INFO] === Pulaski County ===
-2026-03-05 18:05:13,367 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,368 [INFO] === Robertson County ===
-2026-03-05 18:05:13,368 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,369 [INFO] === Rockcastle County ===
-2026-03-05 18:05:13,369 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,369 [INFO] === Rowan County ===
-2026-03-05 18:05:13,370 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,370 [INFO] === Russell County ===
-2026-03-05 18:05:13,372 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,372 [INFO] === Scott County ===
-2026-03-05 18:05:13,373 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,374 [INFO] === Shelby County ===
-2026-03-05 18:05:13,374 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,375 [INFO] === Simpson County ===
-2026-03-05 18:05:13,376 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,376 [INFO] === Spencer County ===
-2026-03-05 18:05:13,376 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,377 [INFO] === Taylor County ===
-2026-03-05 18:05:13,377 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,377 [INFO] === Todd County ===
-2026-03-05 18:05:13,378 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,378 [INFO] === Trigg County ===
-2026-03-05 18:05:13,379 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,379 [INFO] === Trimble County ===
-2026-03-05 18:05:13,379 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,380 [INFO] === Union County ===
-2026-03-05 18:05:13,380 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,380 [INFO] === Warren County ===
-2026-03-05 18:05:13,380 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,380 [INFO] === Washington County ===
-2026-03-05 18:05:13,381 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,381 [INFO] === Wayne County ===
-2026-03-05 18:05:13,381 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,381 [INFO] === Webster County ===
-2026-03-05 18:05:13,381 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,381 [INFO] === Whitley County ===
-2026-03-05 18:05:13,382 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,382 [INFO] === Wolfe County ===
-2026-03-05 18:05:13,382 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,382 [INFO] === Woodford County ===
-2026-03-05 18:05:13,382 [INFO]   No confirmed public EOP found. Recording reference URL.
-2026-03-05 18:05:13,384 [INFO] Metadata -> data/metadata.json
-2026-03-05 18:05:13,384 [INFO] 
-2026-03-05 18:05:13,384 [INFO] === SUMMARY ===
-2026-03-05 18:05:13,384 [INFO] Total documents downloaded : 0
-2026-03-05 18:05:13,385 [INFO] Counties with downloads    : 0 / 120
-2026-03-05 18:05:13,385 [INFO] Metadata records           : 136
-2026-03-05 18:05:13,385 [INFO] Output directory           : /home/user/Climos/data/eops
+2026-03-05 18:08:37,039 [INFO] Kentucky County EOP Collector
+2026-03-05 18:08:37,040 [INFO] Counties with confirmed sources: 6
+2026-03-05 18:08:37,040 [INFO] Total counties tracked: 120
+2026-03-05 18:08:37,040 [INFO] --- Downloading State-Level KY EOP Documents ---
+2026-03-05 18:08:40,065 [INFO] === Adair County ===
+2026-03-05 18:08:40,066 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:40,066 [INFO] === Allen County ===
+2026-03-05 18:08:40,067 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:40,067 [INFO] === Anderson County ===
+2026-03-05 18:08:40,068 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:40,068 [INFO] === Ballard County ===
+2026-03-05 18:08:40,069 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:40,069 [INFO] === Barren County ===
+2026-03-05 18:08:40,069 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:40,069 [INFO] === Bath County ===
+2026-03-05 18:08:40,069 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:40,070 [INFO] === Bell County ===
+2026-03-05 18:08:40,070 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:40,070 [INFO] === Boone County ===
+2026-03-05 18:08:40,070 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:40,070 [INFO] === Bourbon County ===
+2026-03-05 18:08:40,071 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:40,071 [INFO] === Boyd County ===
+2026-03-05 18:08:40,071 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:40,071 [INFO] === Boyle County ===
+2026-03-05 18:08:40,071 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:40,072 [INFO] === Bracken County ===
+2026-03-05 18:08:40,072 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:40,072 [INFO] === Breathitt County ===
+2026-03-05 18:08:40,073 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:40,073 [INFO] === Breckinridge County ===
+2026-03-05 18:08:40,073 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:40,073 [INFO] === Bullitt County ===
+2026-03-05 18:08:40,073 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:40,073 [INFO] === Butler County ===
+2026-03-05 18:08:40,074 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:40,074 [INFO] === Caldwell County ===
+2026-03-05 18:08:40,074 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:40,074 [INFO] === Calloway County ===
+2026-03-05 18:08:40,074 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:40,075 [INFO] === Campbell County ===
+2026-03-05 18:08:42,090 [INFO]   Crawling index page: https://campbellcountyky.gov/division/blocks.php?structureid=73
+2026-03-05 18:08:42,097 [INFO]   Found 0 sub-links on index page
+2026-03-05 18:08:43,098 [INFO] === Carlisle County ===
+2026-03-05 18:08:43,099 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:43,099 [INFO] === Carroll County ===
+2026-03-05 18:08:43,099 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:43,100 [INFO] === Carter County ===
+2026-03-05 18:08:43,100 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:43,100 [INFO] === Casey County ===
+2026-03-05 18:08:43,100 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:43,101 [INFO] === Christian County ===
+2026-03-05 18:08:43,101 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:43,101 [INFO] === Clark County ===
+2026-03-05 18:08:43,101 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:43,101 [INFO] === Clay County ===
+2026-03-05 18:08:43,102 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:43,102 [INFO] === Clinton County ===
+2026-03-05 18:08:43,102 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:43,102 [INFO] === Crittenden County ===
+2026-03-05 18:08:43,102 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:43,102 [INFO] === Cumberland County ===
+2026-03-05 18:08:43,103 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:43,103 [INFO] === Daviess County ===
+2026-03-05 18:08:43,103 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:43,103 [INFO] === Edmonson County ===
+2026-03-05 18:08:43,104 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:43,104 [INFO] === Elliott County ===
+2026-03-05 18:08:43,104 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:43,104 [INFO] === Estill County ===
+2026-03-05 18:08:43,104 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:43,105 [INFO] === Fayette County ===
+2026-03-05 18:08:45,122 [INFO]   Crawling index page: https://www.bereadylexington.com/emergency-operations-plan/
+2026-03-05 18:08:45,129 [INFO]   Found 0 sub-links on index page
+2026-03-05 18:08:46,130 [INFO] === Fleming County ===
+2026-03-05 18:08:46,130 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:46,131 [INFO] === Floyd County ===
+2026-03-05 18:08:46,131 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:46,132 [INFO] === Franklin County ===
+2026-03-05 18:08:46,132 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:46,132 [INFO] === Fulton County ===
+2026-03-05 18:08:46,132 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:46,132 [INFO] === Gallatin County ===
+2026-03-05 18:08:46,133 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:46,133 [INFO] === Garrard County ===
+2026-03-05 18:08:46,133 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:46,133 [INFO] === Grant County ===
+2026-03-05 18:08:46,134 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:46,134 [INFO] === Graves County ===
+2026-03-05 18:08:46,134 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:46,134 [INFO] === Grayson County ===
+2026-03-05 18:08:46,134 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:46,135 [INFO] === Green County ===
+2026-03-05 18:08:46,135 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:46,135 [INFO] === Greenup County ===
+2026-03-05 18:08:46,135 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:46,135 [INFO] === Hancock County ===
+2026-03-05 18:08:46,136 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:46,136 [INFO] === Hardin County ===
+2026-03-05 18:08:47,143 [INFO] === Harlan County ===
+2026-03-05 18:08:47,144 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:47,144 [INFO] === Harrison County ===
+2026-03-05 18:08:47,145 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:47,145 [INFO] === Hart County ===
+2026-03-05 18:08:47,145 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:47,145 [INFO] === Henderson County ===
+2026-03-05 18:08:47,146 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:47,146 [INFO] === Henry County ===
+2026-03-05 18:08:47,146 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:47,146 [INFO] === Hickman County ===
+2026-03-05 18:08:47,147 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:47,147 [INFO] === Hopkins County ===
+2026-03-05 18:08:47,147 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:47,147 [INFO] === Jackson County ===
+2026-03-05 18:08:47,148 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:47,148 [INFO] === Jefferson County ===
+2026-03-05 18:08:48,155 [INFO] === Jessamine County ===
+2026-03-05 18:08:48,155 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:48,156 [INFO] === Johnson County ===
+2026-03-05 18:08:48,156 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:48,156 [INFO] === Kenton County ===
+2026-03-05 18:08:58,236 [INFO]   Crawling index page: https://www.kentoncounty.org/210/Kenton-County-Emergency-Operation-Plans
+2026-03-05 18:08:58,244 [INFO]   Found 0 sub-links on index page
+2026-03-05 18:08:59,246 [INFO] === Knott County ===
+2026-03-05 18:08:59,247 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,247 [INFO] === Knox County ===
+2026-03-05 18:08:59,248 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,248 [INFO] === Larue County ===
+2026-03-05 18:08:59,249 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,249 [INFO] === Laurel County ===
+2026-03-05 18:08:59,250 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,250 [INFO] === Lawrence County ===
+2026-03-05 18:08:59,250 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,251 [INFO] === Lee County ===
+2026-03-05 18:08:59,251 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,251 [INFO] === Leslie County ===
+2026-03-05 18:08:59,252 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,252 [INFO] === Letcher County ===
+2026-03-05 18:08:59,252 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,253 [INFO] === Lewis County ===
+2026-03-05 18:08:59,253 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,253 [INFO] === Lincoln County ===
+2026-03-05 18:08:59,253 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,254 [INFO] === Livingston County ===
+2026-03-05 18:08:59,254 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,254 [INFO] === Logan County ===
+2026-03-05 18:08:59,254 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,254 [INFO] === Lyon County ===
+2026-03-05 18:08:59,255 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,255 [INFO] === McCracken County ===
+2026-03-05 18:08:59,255 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,255 [INFO] === McCreary County ===
+2026-03-05 18:08:59,255 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,256 [INFO] === McLean County ===
+2026-03-05 18:08:59,256 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,256 [INFO] === Madison County ===
+2026-03-05 18:08:59,256 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,256 [INFO] === Magoffin County ===
+2026-03-05 18:08:59,256 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,257 [INFO] === Marion County ===
+2026-03-05 18:08:59,257 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,257 [INFO] === Marshall County ===
+2026-03-05 18:08:59,257 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,258 [INFO] === Martin County ===
+2026-03-05 18:08:59,258 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,259 [INFO] === Mason County ===
+2026-03-05 18:08:59,259 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,259 [INFO] === Meade County ===
+2026-03-05 18:08:59,259 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,259 [INFO] === Menifee County ===
+2026-03-05 18:08:59,260 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,260 [INFO] === Mercer County ===
+2026-03-05 18:08:59,260 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,261 [INFO] === Metcalfe County ===
+2026-03-05 18:08:59,261 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,261 [INFO] === Monroe County ===
+2026-03-05 18:08:59,261 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,261 [INFO] === Montgomery County ===
+2026-03-05 18:08:59,262 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,262 [INFO] === Morgan County ===
+2026-03-05 18:08:59,263 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,263 [INFO] === Muhlenberg County ===
+2026-03-05 18:08:59,263 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,263 [INFO] === Nelson County ===
+2026-03-05 18:08:59,264 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,264 [INFO] === Nicholas County ===
+2026-03-05 18:08:59,265 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,265 [INFO] === Ohio County ===
+2026-03-05 18:08:59,265 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,265 [INFO] === Oldham County ===
+2026-03-05 18:08:59,266 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,266 [INFO] === Owen County ===
+2026-03-05 18:08:59,266 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,266 [INFO] === Owsley County ===
+2026-03-05 18:08:59,266 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,267 [INFO] === Pendleton County ===
+2026-03-05 18:08:59,267 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,267 [INFO] === Perry County ===
+2026-03-05 18:08:59,267 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,267 [INFO] === Pike County ===
+2026-03-05 18:08:59,268 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,268 [INFO] === Powell County ===
+2026-03-05 18:08:59,268 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,268 [INFO] === Pulaski County ===
+2026-03-05 18:08:59,269 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,269 [INFO] === Robertson County ===
+2026-03-05 18:08:59,269 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,270 [INFO] === Rockcastle County ===
+2026-03-05 18:08:59,270 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,270 [INFO] === Rowan County ===
+2026-03-05 18:08:59,271 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,271 [INFO] === Russell County ===
+2026-03-05 18:08:59,271 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,271 [INFO] === Scott County ===
+2026-03-05 18:08:59,272 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,272 [INFO] === Shelby County ===
+2026-03-05 18:08:59,272 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,272 [INFO] === Simpson County ===
+2026-03-05 18:08:59,273 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,273 [INFO] === Spencer County ===
+2026-03-05 18:08:59,273 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,274 [INFO] === Taylor County ===
+2026-03-05 18:08:59,274 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,274 [INFO] === Todd County ===
+2026-03-05 18:08:59,275 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,275 [INFO] === Trigg County ===
+2026-03-05 18:08:59,275 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,276 [INFO] === Trimble County ===
+2026-03-05 18:08:59,276 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,276 [INFO] === Union County ===
+2026-03-05 18:08:59,276 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,277 [INFO] === Warren County ===
+2026-03-05 18:08:59,277 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,277 [INFO] === Washington County ===
+2026-03-05 18:08:59,278 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,278 [INFO] === Wayne County ===
+2026-03-05 18:08:59,278 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,278 [INFO] === Webster County ===
+2026-03-05 18:08:59,279 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,279 [INFO] === Whitley County ===
+2026-03-05 18:08:59,279 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,279 [INFO] === Wolfe County ===
+2026-03-05 18:08:59,279 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,279 [INFO] === Woodford County ===
+2026-03-05 18:08:59,280 [INFO]   No confirmed public EOP found. Recording reference URL.
+2026-03-05 18:08:59,283 [INFO] Metadata -> data/metadata.json
+2026-03-05 18:08:59,283 [INFO] 
+2026-03-05 18:08:59,283 [INFO] === SUMMARY ===
+2026-03-05 18:08:59,283 [INFO] Total documents downloaded : 0
+2026-03-05 18:08:59,283 [INFO] Counties with downloads    : 0 / 120
+2026-03-05 18:08:59,283 [INFO] Metadata records           : 137
+2026-03-05 18:08:59,284 [INFO] Output directory           : /home/user/Climos/data/eops

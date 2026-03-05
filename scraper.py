@@ -72,6 +72,8 @@ KNOWN_SOURCES = {
     ],
 
     "Fayette": [
+        {"url": "https://www.bereadylexington.com/wp-content/uploads/2024/09/Fayette-County-Basic-EOP-2024.pdf",
+         "title": "Lexington-Fayette County EOP – Basic Plan (2024)", "type": "pdf"},
         {"url": "https://www.bereadylexington.com/wp-content/uploads/2021/06/Basic-Plan.pdf",
          "title": "Lexington-Fayette County EOP – Basic Plan (2021)", "type": "pdf"},
         {"url": "https://www.bereadylexington.com/emergency-operations-plan/",
