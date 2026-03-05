@@ -1,0 +1,1362 @@
+[
+  {
+    "county": "Kentucky (State)",
+    "title": "Kentucky State Emergency Operations Plan (KYEM)",
+    "url": "https://kyem.ky.gov/sitecontacts/Documents/State%20EOP.pdf",
+    "source_type": "direct_pdf",
+    "notes": "State-level plan",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:52.163406Z"
+  },
+  {
+    "county": "Kentucky (State)",
+    "title": "Updated Kentucky Emergency Operations Plan (KYEM)",
+    "url": "https://kyem.ky.gov/Documents/Updated%20Kentucky%20Emergency%20Operations%20Plan.pdf",
+    "source_type": "direct_pdf",
+    "notes": "State-level plan",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:53.171321Z"
+  },
+  {
+    "county": "Kentucky (State)",
+    "title": "Kentucky EOP \u2013 Energy & Environment Cabinet",
+    "url": "https://eec.ky.gov/Energy/Programs/Documents/Emergency%20Operation%20Plan.pdf",
+    "source_type": "direct_pdf",
+    "notes": "State-level plan",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:54.179621Z"
+  },
+  {
+    "county": "Adair",
+    "title": null,
+    "url": "https://www.adaircounty.ky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.adaircounty.ky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:55.181829Z"
+  },
+  {
+    "county": "Allen",
+    "title": null,
+    "url": "https://www.allencounty.ky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.allencounty.ky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:55.182311Z"
+  },
+  {
+    "county": "Anderson",
+    "title": null,
+    "url": "https://www.andersoncountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.andersoncountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:55.182790Z"
+  },
+  {
+    "county": "Ballard",
+    "title": null,
+    "url": "https://www.ballardcountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.ballardcountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:55.183194Z"
+  },
+  {
+    "county": "Barren",
+    "title": null,
+    "url": "https://www.barrencounty.org",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.barrencounty.org",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:55.183435Z"
+  },
+  {
+    "county": "Bath",
+    "title": null,
+    "url": "https://www.bathcountyky.org",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.bathcountyky.org",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:55.184515Z"
+  },
+  {
+    "county": "Bell",
+    "title": null,
+    "url": "https://www.bellcountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.bellcountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:55.185129Z"
+  },
+  {
+    "county": "Boone",
+    "title": null,
+    "url": "https://www.boonecountyky.org",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.boonecountyky.org",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:55.185564Z"
+  },
+  {
+    "county": "Bourbon",
+    "title": null,
+    "url": "https://www.bourboncountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.bourboncountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:55.185748Z"
+  },
+  {
+    "county": "Boyd",
+    "title": null,
+    "url": "https://www.boydcountyky.org",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.boydcountyky.org",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:55.185943Z"
+  },
+  {
+    "county": "Boyle",
+    "title": null,
+    "url": "https://www.boylecountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.boylecountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:55.186090Z"
+  },
+  {
+    "county": "Bracken",
+    "title": null,
+    "url": "https://www.brackencountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.brackencountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:55.186240Z"
+  },
+  {
+    "county": "Breathitt",
+    "title": null,
+    "url": "https://www.breathittcountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.breathittcountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:55.186631Z"
+  },
+  {
+    "county": "Breckinridge",
+    "title": null,
+    "url": "https://www.breckinridgecounty.ky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.breckinridgecounty.ky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:55.187343Z"
+  },
+  {
+    "county": "Bullitt",
+    "title": null,
+    "url": "https://www.bullittcounty.net",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.bullittcounty.net",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:55.187918Z"
+  },
+  {
+    "county": "Butler",
+    "title": null,
+    "url": "https://www.butlercountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.butlercountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:55.188300Z"
+  },
+  {
+    "county": "Caldwell",
+    "title": null,
+    "url": "https://www.caldwellcountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.caldwellcountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:55.188671Z"
+  },
+  {
+    "county": "Calloway",
+    "title": null,
+    "url": "https://www.callowaycountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.callowaycountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:55.189181Z"
+  },
+  {
+    "county": "Campbell",
+    "title": "Campbell County EOP \u2013 Search & Rescue Plan",
+    "url": "https://campbellcountyky.gov/egov/documents/1735852403_1093.pdf",
+    "source_type": "direct_pdf",
+    "notes": null,
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:55.196632Z"
+  },
+  {
+    "county": "Campbell",
+    "title": "Campbell County ESF-13 Public Safety & Security Annex",
+    "url": "https://campbellcountyky.gov/egov/documents/1759437436_67386.pdf",
+    "source_type": "direct_pdf",
+    "notes": null,
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:56.204641Z"
+  },
+  {
+    "county": "Campbell",
+    "title": "EOP Index: https://campbellcountyky.gov/division/blocks.php?structureid=73",
+    "url": "https://campbellcountyky.gov/division/blocks.php?structureid=73",
+    "source_type": "page_no_pdfs",
+    "notes": "Index page crawled but no PDF sub-links extracted",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:57.213394Z"
+  },
+  {
+    "county": "Carlisle",
+    "title": null,
+    "url": "https://www.carlislecountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.carlislecountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:58.215796Z"
+  },
+  {
+    "county": "Carroll",
+    "title": null,
+    "url": "https://www.carrollcountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.carrollcountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:58.216282Z"
+  },
+  {
+    "county": "Carter",
+    "title": null,
+    "url": "https://www.cartercountyky.org",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.cartercountyky.org",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:58.216651Z"
+  },
+  {
+    "county": "Casey",
+    "title": null,
+    "url": "https://www.caseycountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.caseycountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:58.217145Z"
+  },
+  {
+    "county": "Christian",
+    "title": null,
+    "url": "https://www.christiancounty.net",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.christiancounty.net",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:58.217506Z"
+  },
+  {
+    "county": "Clark",
+    "title": null,
+    "url": "https://www.clarkcountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.clarkcountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:58.218055Z"
+  },
+  {
+    "county": "Clay",
+    "title": null,
+    "url": "https://www.claycountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.claycountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:58.218720Z"
+  },
+  {
+    "county": "Clinton",
+    "title": null,
+    "url": "https://www.clintoncountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.clintoncountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:58.219298Z"
+  },
+  {
+    "county": "Crittenden",
+    "title": null,
+    "url": "https://www.crittendencountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.crittendencountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:58.219726Z"
+  },
+  {
+    "county": "Cumberland",
+    "title": null,
+    "url": "https://www.cumberlandcountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.cumberlandcountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:58.219967Z"
+  },
+  {
+    "county": "Daviess",
+    "title": null,
+    "url": "https://www.daviesscounty.net",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.daviesscounty.net",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:58.220334Z"
+  },
+  {
+    "county": "Edmonson",
+    "title": null,
+    "url": "https://www.edmonson.ky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.edmonson.ky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:58.220827Z"
+  },
+  {
+    "county": "Elliott",
+    "title": null,
+    "url": "https://www.elliottcountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.elliottcountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:58.221657Z"
+  },
+  {
+    "county": "Estill",
+    "title": null,
+    "url": "https://www.estillcounty.ky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.estillcounty.ky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:58.222168Z"
+  },
+  {
+    "county": "Fayette",
+    "title": "Lexington-Fayette County EOP \u2013 Basic Plan (2021)",
+    "url": "https://www.bereadylexington.com/wp-content/uploads/2021/06/Basic-Plan.pdf",
+    "source_type": "direct_pdf",
+    "notes": null,
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:58.229315Z"
+  },
+  {
+    "county": "Fayette",
+    "title": "EOP Index: https://www.bereadylexington.com/emergency-operations-plan/",
+    "url": "https://www.bereadylexington.com/emergency-operations-plan/",
+    "source_type": "page_no_pdfs",
+    "notes": "Index page crawled but no PDF sub-links extracted",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:04:59.238850Z"
+  },
+  {
+    "county": "Fleming",
+    "title": null,
+    "url": "https://www.flemingcountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.flemingcountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:00.241075Z"
+  },
+  {
+    "county": "Floyd",
+    "title": null,
+    "url": "https://www.floydcountyky.org",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.floydcountyky.org",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:00.241803Z"
+  },
+  {
+    "county": "Franklin",
+    "title": null,
+    "url": "https://www.franklincountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.franklincountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:00.242402Z"
+  },
+  {
+    "county": "Fulton",
+    "title": null,
+    "url": "https://www.fultoncountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.fultoncountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:00.242891Z"
+  },
+  {
+    "county": "Gallatin",
+    "title": null,
+    "url": "https://www.gallatincountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.gallatincountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:00.243242Z"
+  },
+  {
+    "county": "Garrard",
+    "title": null,
+    "url": "https://www.garrardcountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.garrardcountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:00.243699Z"
+  },
+  {
+    "county": "Grant",
+    "title": null,
+    "url": "https://www.grantcountyky.org",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.grantcountyky.org",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:00.244448Z"
+  },
+  {
+    "county": "Graves",
+    "title": null,
+    "url": "https://www.gravescountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.gravescountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:00.245198Z"
+  },
+  {
+    "county": "Grayson",
+    "title": null,
+    "url": "https://www.graysoncountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.graysoncountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:00.245911Z"
+  },
+  {
+    "county": "Green",
+    "title": null,
+    "url": "https://www.greencountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.greencountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:00.246421Z"
+  },
+  {
+    "county": "Greenup",
+    "title": null,
+    "url": "https://www.greenupky.org",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.greenupky.org",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:00.246995Z"
+  },
+  {
+    "county": "Hancock",
+    "title": null,
+    "url": "https://www.hancockcountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.hancockcountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:00.247823Z"
+  },
+  {
+    "county": "Hardin",
+    "title": "Hardin County EOP Executive Order 2025-001",
+    "url": "https://www.hardincountyky.gov/DocumentCenter/View/2862/Executive-Order-2025-001-Emergency-Mgmt-Operations-Plan",
+    "source_type": "direct_pdf",
+    "notes": null,
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:00.255887Z"
+  },
+  {
+    "county": "Harlan",
+    "title": null,
+    "url": "https://www.harlancounty.ky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.harlancounty.ky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:01.257794Z"
+  },
+  {
+    "county": "Harrison",
+    "title": null,
+    "url": "https://www.harrisoncountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.harrisoncountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:01.258929Z"
+  },
+  {
+    "county": "Hart",
+    "title": null,
+    "url": "https://www.hartcountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.hartcountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:01.259375Z"
+  },
+  {
+    "county": "Henderson",
+    "title": null,
+    "url": "https://www.hendersoncountyky.org",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.hendersoncountyky.org",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:01.259687Z"
+  },
+  {
+    "county": "Henry",
+    "title": null,
+    "url": "https://www.henrycountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.henrycountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:01.260128Z"
+  },
+  {
+    "county": "Hickman",
+    "title": null,
+    "url": "https://www.hickmancountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.hickmancountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:01.260508Z"
+  },
+  {
+    "county": "Hopkins",
+    "title": null,
+    "url": "https://www.hopkinscountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.hopkinscountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:01.261043Z"
+  },
+  {
+    "county": "Jackson",
+    "title": null,
+    "url": "https://www.jacksoncountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.jacksoncountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:01.261406Z"
+  },
+  {
+    "county": "Jefferson",
+    "title": "Louisville/Jefferson County Metro Government EOP 2025",
+    "url": "https://louisvilleky.gov/sites/default/files/2025-10/2025%20Louisville%20Jefferson%20CO%20EOP%20FINAL%2004-07-2025.pdf",
+    "source_type": "direct_pdf",
+    "notes": null,
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:01.268275Z"
+  },
+  {
+    "county": "Jessamine",
+    "title": null,
+    "url": "https://www.jessamineco.com",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.jessamineco.com",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:02.270428Z"
+  },
+  {
+    "county": "Johnson",
+    "title": null,
+    "url": "https://www.johnsoncountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.johnsoncountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:02.270832Z"
+  },
+  {
+    "county": "Kenton",
+    "title": "Kenton County EOP \u2013 Basic Plan",
+    "url": "https://www.kentoncounty.org/DocumentCenter/View/298/Kenton-County-Emergency-Operations-Plan-EOP-PDF",
+    "source_type": "direct_pdf",
+    "notes": null,
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:02.277809Z"
+  },
+  {
+    "county": "Kenton",
+    "title": "Kenton County EOP Full Version 2022 (via Edgewood KY)",
+    "url": "https://edgewoodky.gov/wp-content/uploads/2023/07/2022-KCEOP-Full-Version-059-02-2023.pdf",
+    "source_type": "direct_pdf",
+    "notes": null,
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:03.285719Z"
+  },
+  {
+    "county": "Kenton",
+    "title": "Kenton County EOP \u2013 Incident Management System Plan",
+    "url": "https://www.kentoncounty.org/DocumentCenter/View/2804/1A-Incident-Management-System-Plan-PDF",
+    "source_type": "direct_pdf",
+    "notes": null,
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:04.292315Z"
+  },
+  {
+    "county": "Kenton",
+    "title": "Kenton County ESF-1 Transportation",
+    "url": "https://kentoncounty.org/DocumentCenter/View/297/Emergency-Support-Functions-Transportation-PDF",
+    "source_type": "direct_pdf",
+    "notes": null,
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:05.299999Z"
+  },
+  {
+    "county": "Kenton",
+    "title": "Kenton County ESF-3 Public Works & Infrastructure",
+    "url": "https://www.kentoncounty.org/DocumentCenter/View/294/Emergency-Support-Functions-Public-Works-Infrastructure-Management-PDF",
+    "source_type": "direct_pdf",
+    "notes": null,
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:06.307620Z"
+  },
+  {
+    "county": "Kenton",
+    "title": "Kenton County ESF Hazardous Materials",
+    "url": "https://www.kentoncounty.org/DocumentCenter/View/303/Emergency-Support-Functions-Hazardous-Materials-PDF",
+    "source_type": "direct_pdf",
+    "notes": null,
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:07.314566Z"
+  },
+  {
+    "county": "Kenton",
+    "title": "Kenton County EOP \u2013 Point of Distribution Plan",
+    "url": "https://kentoncounty.org/DocumentCenter/View/2801/Point-of-Distribution-Plan-PDF",
+    "source_type": "direct_pdf",
+    "notes": null,
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:08.321684Z"
+  },
+  {
+    "county": "Kenton",
+    "title": "Kenton County EOP \u2013 Aircraft Incident Response Plan",
+    "url": "https://kentoncounty.org/DocumentCenter/View/2816/Aircraft-Emergency-Response-Plan-PDF",
+    "source_type": "direct_pdf",
+    "notes": null,
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:09.328956Z"
+  },
+  {
+    "county": "Kenton",
+    "title": "Kenton County EOP \u2013 Railroad Incident Response Plan",
+    "url": "https://www.kentoncounty.org/DocumentCenter/View/2838/Railroad-Emergency-Response-Plan-PDF",
+    "source_type": "direct_pdf",
+    "notes": null,
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:10.335987Z"
+  },
+  {
+    "county": "Kenton",
+    "title": "Kenton County EOP \u2013 Earthquake Preparedness Plan",
+    "url": "https://kentoncounty.org/DocumentCenter/View/2830/Earthquake-Preparedness-Plan-PDF",
+    "source_type": "direct_pdf",
+    "notes": null,
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:11.342886Z"
+  },
+  {
+    "county": "Kenton",
+    "title": "EOP Index: https://www.kentoncounty.org/210/Kenton-County-Emergency-Operation-Plans",
+    "url": "https://www.kentoncounty.org/210/Kenton-County-Emergency-Operation-Plans",
+    "source_type": "page_no_pdfs",
+    "notes": "Index page crawled but no PDF sub-links extracted",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:12.351353Z"
+  },
+  {
+    "county": "Knott",
+    "title": null,
+    "url": "https://www.knottcountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.knottcountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.353126Z"
+  },
+  {
+    "county": "Knox",
+    "title": null,
+    "url": "https://www.knoxcountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.knoxcountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.353664Z"
+  },
+  {
+    "county": "Larue",
+    "title": null,
+    "url": "https://www.laruecountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.laruecountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.354047Z"
+  },
+  {
+    "county": "Laurel",
+    "title": null,
+    "url": "https://www.laurelcountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.laurelcountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.354558Z"
+  },
+  {
+    "county": "Lawrence",
+    "title": null,
+    "url": "https://www.lawrencecountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.lawrencecountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.354869Z"
+  },
+  {
+    "county": "Lee",
+    "title": null,
+    "url": "https://www.leecountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.leecountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.355165Z"
+  },
+  {
+    "county": "Leslie",
+    "title": null,
+    "url": "https://www.lesliecountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.lesliecountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.355499Z"
+  },
+  {
+    "county": "Letcher",
+    "title": null,
+    "url": "https://www.letchercountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.letchercountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.355858Z"
+  },
+  {
+    "county": "Lewis",
+    "title": null,
+    "url": "https://www.lewiscountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.lewiscountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.356260Z"
+  },
+  {
+    "county": "Lincoln",
+    "title": null,
+    "url": "https://www.lincolncountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.lincolncountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.356643Z"
+  },
+  {
+    "county": "Livingston",
+    "title": null,
+    "url": "https://www.livingstoncountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.livingstoncountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.356976Z"
+  },
+  {
+    "county": "Logan",
+    "title": null,
+    "url": "https://www.logancountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.logancountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.357335Z"
+  },
+  {
+    "county": "Lyon",
+    "title": null,
+    "url": "https://www.lyoncountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.lyoncountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.357783Z"
+  },
+  {
+    "county": "McCracken",
+    "title": null,
+    "url": "https://mccrackencountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://mccrackencountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.358126Z"
+  },
+  {
+    "county": "McCreary",
+    "title": null,
+    "url": "https://www.mccrearyky.com",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.mccrearyky.com",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.358427Z"
+  },
+  {
+    "county": "McLean",
+    "title": null,
+    "url": "https://www.mcleancountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.mcleancountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.358852Z"
+  },
+  {
+    "county": "Madison",
+    "title": null,
+    "url": "https://www.madisoncountyky.us",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.madisoncountyky.us",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.359154Z"
+  },
+  {
+    "county": "Magoffin",
+    "title": null,
+    "url": "https://www.magoffincountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.magoffincountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.359398Z"
+  },
+  {
+    "county": "Marion",
+    "title": null,
+    "url": "https://www.marioncountyky.org",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.marioncountyky.org",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.359689Z"
+  },
+  {
+    "county": "Marshall",
+    "title": null,
+    "url": "https://www.marshallcountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.marshallcountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.359984Z"
+  },
+  {
+    "county": "Martin",
+    "title": null,
+    "url": "https://www.martincountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.martincountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.360212Z"
+  },
+  {
+    "county": "Mason",
+    "title": null,
+    "url": "https://www.masoncountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.masoncountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.360421Z"
+  },
+  {
+    "county": "Meade",
+    "title": null,
+    "url": "https://www.meadecountyky.org",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.meadecountyky.org",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.360676Z"
+  },
+  {
+    "county": "Menifee",
+    "title": null,
+    "url": "https://www.menifeecountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.menifeecountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.360920Z"
+  },
+  {
+    "county": "Mercer",
+    "title": null,
+    "url": "https://www.mercercountyky.org",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.mercercountyky.org",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.361343Z"
+  },
+  {
+    "county": "Metcalfe",
+    "title": null,
+    "url": "https://www.metcalfecountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.metcalfecountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.361627Z"
+  },
+  {
+    "county": "Monroe",
+    "title": null,
+    "url": "https://www.monroecountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.monroecountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.362106Z"
+  },
+  {
+    "county": "Montgomery",
+    "title": null,
+    "url": "https://www.montgomerycountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.montgomerycountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.362340Z"
+  },
+  {
+    "county": "Morgan",
+    "title": null,
+    "url": "https://www.morgancountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.morgancountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.362568Z"
+  },
+  {
+    "county": "Muhlenberg",
+    "title": null,
+    "url": "https://www.muhlenbergcountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.muhlenbergcountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.362951Z"
+  },
+  {
+    "county": "Nelson",
+    "title": null,
+    "url": "https://www.nelsoncountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.nelsoncountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.363353Z"
+  },
+  {
+    "county": "Nicholas",
+    "title": null,
+    "url": "https://www.nicholascountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.nicholascountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.363589Z"
+  },
+  {
+    "county": "Ohio",
+    "title": null,
+    "url": "https://www.ohiocountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.ohiocountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.363854Z"
+  },
+  {
+    "county": "Oldham",
+    "title": null,
+    "url": "https://www.oldhamcountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.oldhamcountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.364162Z"
+  },
+  {
+    "county": "Owen",
+    "title": null,
+    "url": "https://www.owencountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.owencountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.364432Z"
+  },
+  {
+    "county": "Owsley",
+    "title": null,
+    "url": "https://www.owsleycountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.owsleycountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.364658Z"
+  },
+  {
+    "county": "Pendleton",
+    "title": null,
+    "url": "https://www.pendletoncountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.pendletoncountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.364931Z"
+  },
+  {
+    "county": "Perry",
+    "title": null,
+    "url": "https://www.perrycountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.perrycountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.365510Z"
+  },
+  {
+    "county": "Pike",
+    "title": null,
+    "url": "https://www.pikecountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.pikecountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.366365Z"
+  },
+  {
+    "county": "Powell",
+    "title": null,
+    "url": "https://www.powellcountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.powellcountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.367254Z"
+  },
+  {
+    "county": "Pulaski",
+    "title": null,
+    "url": "https://www.pulaskicountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.pulaskicountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.368265Z"
+  },
+  {
+    "county": "Robertson",
+    "title": null,
+    "url": "https://www.robertsoncountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.robertsoncountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.369071Z"
+  },
+  {
+    "county": "Rockcastle",
+    "title": null,
+    "url": "https://www.rockcastlecounty.org",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.rockcastlecounty.org",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.369594Z"
+  },
+  {
+    "county": "Rowan",
+    "title": null,
+    "url": "https://www.rowancountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.rowancountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.370963Z"
+  },
+  {
+    "county": "Russell",
+    "title": null,
+    "url": "https://www.russellcountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.russellcountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.372705Z"
+  },
+  {
+    "county": "Scott",
+    "title": null,
+    "url": "https://www.scottcountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.scottcountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.374318Z"
+  },
+  {
+    "county": "Shelby",
+    "title": null,
+    "url": "https://www.shelbycountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.shelbycountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.375379Z"
+  },
+  {
+    "county": "Simpson",
+    "title": null,
+    "url": "https://www.simpsoncountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.simpsoncountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.376341Z"
+  },
+  {
+    "county": "Spencer",
+    "title": null,
+    "url": "https://www.spencercountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.spencercountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.377290Z"
+  },
+  {
+    "county": "Taylor",
+    "title": null,
+    "url": "https://www.taylorcountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.taylorcountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.377949Z"
+  },
+  {
+    "county": "Todd",
+    "title": null,
+    "url": "https://www.toddcountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.toddcountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.378897Z"
+  },
+  {
+    "county": "Trigg",
+    "title": null,
+    "url": "https://www.triggcountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.triggcountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.379294Z"
+  },
+  {
+    "county": "Trimble",
+    "title": null,
+    "url": "https://www.trimblecountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.trimblecountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.380175Z"
+  },
+  {
+    "county": "Union",
+    "title": null,
+    "url": "https://www.unioncountyky.org",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.unioncountyky.org",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.380561Z"
+  },
+  {
+    "county": "Warren",
+    "title": null,
+    "url": "https://www.warrencountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.warrencountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.380880Z"
+  },
+  {
+    "county": "Washington",
+    "title": null,
+    "url": "https://www.washingtoncountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.washingtoncountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.381214Z"
+  },
+  {
+    "county": "Wayne",
+    "title": null,
+    "url": "https://www.waynecountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.waynecountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.381645Z"
+  },
+  {
+    "county": "Webster",
+    "title": null,
+    "url": "https://www.webstercountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.webstercountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.381963Z"
+  },
+  {
+    "county": "Whitley",
+    "title": null,
+    "url": "https://www.whitleycounty.ky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.whitleycounty.ky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.382294Z"
+  },
+  {
+    "county": "Wolfe",
+    "title": null,
+    "url": "https://www.wolfecountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.wolfecountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.382632Z"
+  },
+  {
+    "county": "Woodford",
+    "title": null,
+    "url": "https://www.woodfordcountyky.gov",
+    "source_type": "reference",
+    "notes": "No publicly indexed EOP PDF found via web search. Submit Kentucky Open Records Act request to: https://www.woodfordcountyky.gov",
+    "file": null,
+    "downloaded": false,
+    "timestamp": "2026-03-05T18:05:13.383066Z"
+  }
+]
